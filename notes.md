@@ -1,0 +1,5 @@
+- install hip sdk [here](https://rocm.docs.amd.com/projects/install-on-windows/en/latest/index.html#hip-install-quick)
+- had to install [visual studio build tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
+- needed to install strawberry perl
+- if you compile stuff, make sure you compile to a .exe
+- had to rename python311.exe so I can run it with python311
